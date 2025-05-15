@@ -138,7 +138,7 @@ Use Arduino IDE and upload the code to your Uno board.
 
 ## 📜 License
 
-MIT License – feel free to use and modify this project for learning and academic purposes.
+feel free to use and modify this project for learning and academic purposes.
 
 
 ---
