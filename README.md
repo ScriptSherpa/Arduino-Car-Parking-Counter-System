@@ -34,8 +34,8 @@ An Arduino-based Smart Car Parking Counter System that uses an ultrasonic sensor
 <img src="## 🔌 Circuit Diagram
 
 <img src="https://github.com/ScriptSherpa/Arduino-Car-Parking-Counter-System/blob/d41d3b6c6d79b4b625a1bc1fb637d32fb2897275/Automatic-Visitor-Counter/automatic-visitor-counter-circuit.jpg?raw=true" alt="Automatic Visitor Counter Circuit" width="600"/>
-"/>
----
+
+
 
 ## 📄 How It Works
 
