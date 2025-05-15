@@ -9,7 +9,8 @@ An Arduino-based Smart Car Parking Counter System that uses an ultrasonic sensor
 
 ## 📷 Project Preview
 
-![Car Parking System](https://i.imgur.com/YourImageLinkHere.jpg)  
+<img src="https://github.com/ScriptSherpa/Arduino-Car-Parking-Counter-System/blob/bf893064fdac799ac31dd4d16dda2cf69ffbb5de/media/WhatsApp%20Image%202025-05-14%20at%2019.44.58.jpeg?raw=true" alt="Arduino Parking System" width="600"/>
+  
 *Image: Working prototype with LCD and Ultrasonic Sensor*
 
 ---
